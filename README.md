@@ -12,8 +12,6 @@ As a student from UFPA(Federal University of Pará), Junior Data Scientist. I co
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
-
 *
 *
 *
